@@ -1,15 +1,19 @@
 .gold {
     color: #f80;
+    font-weight: bold;
 }
 
 .wood {
     color: #77b300;
+    font-weight: bold;
 }
 
 .skill-points {
-    color: #93c
+    color: #93c;
+    font-weight: bold;
 }
 
 .heroic-points {
-    color: #2a9fd6
+    color: #2a9fd6;
+    font-weight: bold;
 }

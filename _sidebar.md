@@ -4,6 +4,12 @@
 
 <hr>
 
+* Guides
+* [Basic Game Elements](basics.md)
+
+<hr>
+
+* Views
 * [Tavern](tavern.md)
 * [Regions](regions.md)
 * [Party](party.md)
